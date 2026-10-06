@@ -1,0 +1,4 @@
+# Core framework + CLI + tests need ONLY the Python standard library (3.9+).
+# Optional web UI:
+streamlit>=1.30
+pandas>=2.0
